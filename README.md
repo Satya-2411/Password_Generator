@@ -1,2 +1,2 @@
 # Password_Generator
-    display: none;
+    A web-based tool that generates secure random passwords with a single click.
